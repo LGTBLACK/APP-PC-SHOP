@@ -1,5 +1,8 @@
 # APP-PC-SHOP
 
+Sử dụng Android studio
+Ngôn ngữ kotlin, java.
+
 Phát thảo Thiết kế giao diện
 
 
