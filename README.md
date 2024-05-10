@@ -70,9 +70,8 @@ khoản và nhấn Login sễ chuyển sang giao diện mới.
 
 Hình 6.5. Giao diện quản lý sản phẩm của admin
 
-![Sua](https://github.com/LGTBLACK/APP-PC-SHOP/assets/129674257/51e978dc-dc19-4f81-ba64-a26d1c137773)
+
 ![Them](https://github.com/LGTBLACK/APP-PC-SHOP/assets/129674257/f3cf026e-b9b7-4170-84bf-1cac5f273dff)
-![Xoa](https://github.com/LGTBLACK/APP-PC-SHOP/assets/129674257/c7b38031-e626-46fc-b165-8a58dc4a36d0)
 
 Hình 6.6. Giao diện thêm, sửa, xóa sản phẩm.
 Mô tả: Khi bấm vào nút Login sẽ hiển thị ra màn hình giao diện quản lý sản phẩm với các chức năng thêm, xóa, sửa như hình 6.5, và khi
@@ -80,11 +79,12 @@ nhấn vào chức năng thêm sẽ hiển thị ra màn hình giao diện thêm
 sản phẩm sẽ cập nhật và thêm vào danh sách.
 
 
-
-
-Hình 6.7.						Hình 6.8.
+![Sua](https://github.com/LGTBLACK/APP-PC-SHOP/assets/129674257/51e978dc-dc19-4f81-ba64-a26d1c137773)
 
 Hình 6.7. Giao diện cập nhật thông tin sản phẩm.
+
+![Xoa](https://github.com/LGTBLACK/APP-PC-SHOP/assets/129674257/c7b38031-e626-46fc-b165-8a58dc4a36d0)
+
 Hình 6.8. Giao diện xóa sản phẩm.
 
 Mô tả: Giao diện cập nhật thông tin sản phẩm ở hình 6.7 cần nhập id sản phẩm muốn sửa và  sau đó sửa các thông tin khác và nhấn save
